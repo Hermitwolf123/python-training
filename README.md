@@ -20,8 +20,20 @@ This repository has been created for Python Training at Instill Learning.
 - Tuple: a collection which is ordered and unchangable also allows duplicate items.
 - Set: a collection which is unordered and unchangable also not allow duplicate items.
 - Dictionary: a collection which is ordered (before python 3.6 it was unordered) and changable also Not allow duplicate items.
+-------------------------------
+# What is a Class?
+A class serves as a blueprint or template for creating objects.
+It defines the structure and behavior of objects that belong to that class.
+Think of a class as a way to bundle data (attributes) and functionality (methods) together.
 
 
+
+
+
+
+
+
+---------------------------------
 # OBJECTIVE QUESTIONS
 ```python
 ### Easy
